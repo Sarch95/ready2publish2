@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "Was ist Ready2Publish?",
+    "answer": "Ready2Publish ist ein digitaler Marktplatz, auf dem Autoren fertige Buchprojekte (inklusive Cover, Inhalt und Rechten) verkaufen können und Verlage oder Selfpublisher diese direkt kaufen können."
+  },
+  {
+    "id": 2,
+    "question": "Welche Rechte erhalte ich beim Kauf?",
+    "answer": "Die Rechte variieren je nach Angebot. In der Regel erhalten Sie vollständige Verlagsrechte, oft auch Übersetzungsrechte und digitale Verwertungsrechte. Die genauen Lizenzbedingungen sind bei jedem Projekt detailliert aufgeführt."
+  },
+  {
+    "id": 3,
+    "question": "Wie kann ich als Autor meine Projekte verkaufen?",
+    "answer": "Registrieren Sie sich als Autor, laden Sie Ihr fertiges Buchprojekt hoch (Cover, Manuskript, Beschreibung) und legen Sie Ihren Preis fest. Nach einer Qualitätsprüfung wird Ihr Projekt im Shop veröffentlicht."
+  },
+  {
+    "id": 4,
+    "question": "Welche Provision erhebt Ready2Publish?",
+    "answer": "Ready2Publish erhebt eine Provision von 15% auf jeden Verkauf. Diese wird automatisch vom Verkaufspreis abgezogen, bevor die Auszahlung an den Autor erfolgt."
+  },
+  {
+    "id": 5,
+    "question": "Kann ich die Bücher vor dem Kauf prüfen?",
+    "answer": "Ja, jedes Buchprojekt enthält eine ausführliche Beschreibung, Leseproben und Vorschau-Inhalte. Bei höherpreisigen Projekten können weitere Prüfmaterialien angefordert werden."
+  },
+  {
+    "id": 6,
+    "question": "Wie erfolgt die Bezahlung?",
+    "answer": "Die Bezahlung erfolgt sicher über Stripe. Akzeptierte Zahlungsmethoden sind Kreditkarten, PayPal und SEPA-Lastschrift. Nach erfolgreicher Zahlung erhalten Sie sofortigen Zugang zu allen Projektdateien."
+  },
+  {
+    "id": 7,
+    "question": "Gibt es eine Qualitätskontrolle?",
+    "answer": "Ja, alle eingereichten Buchprojekte durchlaufen eine Qualitätsprüfung hinsichtlich Vollständigkeit, professioneller Aufmachung und inhaltlicher Qualität, bevor sie im Shop veröffentlicht werden."
+  }
+]

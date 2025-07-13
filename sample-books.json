@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "Die Kristalle von Eldoria",
+    "description": "Ein episches Fantasy-Abenteuer über eine junge Kriegerin, die das magische Reich Eldoria vor der Dunkelheit retten muss. Komplett mit detaillierter Weltkarte, Charakterentwicklung und 350 Seiten packendem Inhalt.",
+    "category_id": 1,
+    "page_count": 350,
+    "price": 299.99,
+    "cover_image_url": "/images/book-cover-1.jpg",
+    "preview_content": "Kapitel 1: Der Ruf der Kristalle\n\nDie ersten Strahlen der Morgensonne durchbrachen die dichten Wolken über dem Königreich Eldoria, als Lyra zum ersten Mal die mysteriösen Kristalle erblickte...",
+    "license_terms": "Vollständige Rechte inklusive Verlagsrechte, Übersetzungsrechte und digitale Verwertungsrechte.",
+    "status": "active",
+    "author": {
+      "full_name": "Marcus Silberstein",
+      "avatar_url": "/images/author-1.jpg",
+      "bio": "Bestseller-Autor mit 15 Jahren Erfahrung im Fantasy-Genre"
+    },
+    "category": {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    "rating": 4.8,
+    "reviews_count": 23
+  },
+  {
+    "id": 2,
+    "title": "Liebe in der Provence",
+    "description": "Eine herzerwärmende Liebesgeschichte zwischen einer Pariser Köchin und einem Winzer in der malerischen Provence. Mit authentischen Kulissen und emotionalen Wendungen.",
+    "category_id": 2,
+    "page_count": 280,
+    "price": 199.99,
+    "cover_image_url": "/images/book-cover-2.jpg",
+    "preview_content": "Kapitel 1: Ankunft in Avignon\n\nChloé stieg aus dem Zug und atmete tief die warme Luft der Provence ein. Hier sollte ihr neues Leben beginnen...",
+    "license_terms": "Vollständige Rechte inklusive Verlagsrechte und digitale Verwertungsrechte.",
+    "status": "active",
+    "author": {
+      "full_name": "Isabelle Dubois",
+      "avatar_url": "/images/author-2.jpg",
+      "bio": "Französische Autorin mit Spezialisierung auf romantische Literatur"
+    },
+    "category": {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    "rating": 4.6,
+    "reviews_count": 18
+  },
+  {
+    "id": 3,
+    "title": "Der letzte Zeuge",
+    "description": "Ein packender Thriller über einen Staatsanwalt, der einem Mordfall nachgeht und dabei eine Verschwörung aufdeckt, die bis in die höchsten Regierungskreise reicht.",
+    "category_id": 3,
+    "page_count": 420,
+    "price": 249.99,
+    "cover_image_url": "/images/book-cover-3.jpg",
+    "preview_content": "Prolog\n\nDer Regen prasselte auf das Autodach, als Detective Morgan die Leiche fand. Was er nicht wusste: Dies war erst der Anfang...",
+    "license_terms": "Vollständige Rechte inklusive Verlagsrechte, Übersetzungsrechte und Filmrechte.",
+    "status": "active",
+    "author": {
+      "full_name": "Thomas Hartmann",
+      "avatar_url": "/images/author-3.jpg",
+      "bio": "Kriminalautor und ehemaliger Ermittler mit 20 Jahren Berufserfahrung"
+    },
+    "category": {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    "rating": 4.9,
+    "reviews_count": 31
+  },
+  {
+    "id": 4,
+    "title": "Start-up Erfolg: Der komplette Leitfaden",
+    "description": "Ein umfassender Ratgeber für angehende Unternehmer. Von der Ideenfindung bis zum Exit - alle wichtigen Schritte praxisnah erklärt mit Fallstudien und Checklisten.",
+    "category_id": 4,
+    "page_count": 450,
+    "price": 399.99,
+    "cover_image_url": "/images/book-cover-4.jpg",
+    "preview_content": "Kapitel 1: Die Macht einer Idee\n\nJedes erfolgreiche Unternehmen beginnt mit einer einfachen Idee. Doch wie wird aus einer Idee ein profitables Business?",
+    "license_terms": "Vollständige Rechte inklusive Verlagsrechte und Seminar-Verwertungsrechte.",
+    "status": "active",
+    "author": {
+      "full_name": "Dr. Sarah Weber",
+      "avatar_url": "/images/author-2.jpg",
+      "bio": "Unternehmensberaterin und Serial Entrepreneur mit 3 erfolgreichen Exits"
+    },
+    "category": {
+      "name": "Business",
+      "slug": "business"
+    },
+    "rating": 4.7,
+    "reviews_count": 42
+  },
+  {
+    "id": 5,
+    "title": "Exodus 2285",
+    "description": "In einer dystopischen Zukunft kämpft die Menschheit um ihr Überleben auf einem fernen Planeten. Ein Science-Fiction-Epos mit komplexer Weltenschöpfung und philosophischen Fragen.",
+    "category_id": 5,
+    "page_count": 520,
+    "price": 349.99,
+    "cover_image_url": "/images/book-cover-5.jpg",
+    "preview_content": "Jahr 2285, Kolonie Alpha-7\n\nDie roten Sonnen von Kepler-442b gingen über der verlassenen Kolonie unter, als Captain Nova die schreckliche Wahrheit entdeckte...",
+    "license_terms": "Vollständige Rechte inklusive Verlagsrechte, Übersetzungsrechte und Medienrechte.",
+    "status": "active",
+    "author": {
+      "full_name": "Alex Rodriguez",
+      "avatar_url": "/images/author-1.jpg",
+      "bio": "Science-Fiction-Autor und Astrophysiker mit mehreren ausgezeichneten Werken"
+    },
+    "category": {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    "rating": 4.5,
+    "reviews_count": 15
+  },
+  {
+    "id": 6,
+    "title": "Die Abenteuer von Pip dem Pinguin",
+    "description": "Eine fröhliche Geschichte über Pip, den kleinen Pinguin, der große Träume hat. Mit liebevollen Illustrationen und einer wichtigen Botschaft über Freundschaft und Mut.",
+    "category_id": 6,
+    "page_count": 32,
+    "price": 89.99,
+    "cover_image_url": "/images/book-cover-6.jpg",
+    "preview_content": "Es war einmal ein kleiner Pinguin namens Pip, der in der Antarktis lebte. Pip war anders als die anderen Pinguine...",
+    "license_terms": "Vollständige Rechte inklusive Verlagsrechte und Merchandise-Rechte.",
+    "status": "active",
+    "author": {
+      "full_name": "Lisa Meinhardt",
+      "avatar_url": "/images/author-2.jpg",
+      "bio": "Kinderbuchautorin und Illustratorin mit über 50 veröffentlichten Werken"
+    },
+    "category": {
+      "name": "Kinderbuch",
+      "slug": "kinderbuch"
+    },
+    "rating": 4.9,
+    "reviews_count": 67
+  }
+]

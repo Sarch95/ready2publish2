@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Schmidt",
+    "role": "Verlagsleiter",
+    "company": "Schmidt Verlag",
+    "text": "Ready2Publish hat unsere Buchbeschaffung revolutioniert. Wir finden qualitativ hochwertige, fertige Projekte und können sofort mit der Vermarktung beginnen. Die Zeitersparnis ist enorm!",
+    "rating": 5,
+    "avatar_url": "/images/author-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Julia Berger",
+    "role": "Autorin & Ghostwriterin",
+    "company": "Freelancer",
+    "text": "Als Autorin schätze ich die professionelle Plattform sehr. Meine Buchprojekte erreichen hier genau die richtige Zielgruppe - Verlage und Selfpublisher, die Qualität erkennen.",
+    "rating": 5,
+    "avatar_url": "/images/author-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Robert Zimmermann",
+    "role": "Selfpublisher",
+    "company": "Indie Author",
+    "text": "Die Auswahl an fertigen Buchprojekten ist beeindruckend. Ich konnte bereits drei Bücher über Ready2Publish erwerben und erfolgreich veröffentlichen. Top Qualität!",
+    "rating": 5,
+    "avatar_url": "/images/author-3.jpg"
+  }
+]

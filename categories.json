@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Fantasy",
+    "slug": "fantasy",
+    "description": "Magische Welten und epische Abenteuer"
+  },
+  {
+    "id": 2,
+    "name": "Romance",
+    "slug": "romance",
+    "description": "Liebesgeschichten und romantische Erzählungen"
+  },
+  {
+    "id": 3,
+    "name": "Thriller",
+    "slug": "thriller",
+    "description": "Spannende Krimis und Mystery-Geschichten"
+  },
+  {
+    "id": 4,
+    "name": "Business",
+    "slug": "business",
+    "description": "Ratgeber und Fachbücher für Unternehmer"
+  },
+  {
+    "id": 5,
+    "name": "Science Fiction",
+    "slug": "science-fiction",
+    "description": "Zukunftsvisionen und technologische Abenteuer"
+  },
+  {
+    "id": 6,
+    "name": "Kinderbuch",
+    "slug": "kinderbuch",
+    "description": "Geschichten und Lernbücher für Kinder"
+  }
+]
